@@ -28,6 +28,7 @@ Passionate Software Developer dedicated to building clean, efficient, and scalab
 	<a href="https://github.com/SantinoGullacci"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/santinogullacci/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 </p>
+📫 Gmail: santinogullacci@gmail.com
 
 ## 🐍 A Snake eating my progress
 ![snake](https://raw.githubusercontent.com/SantinoGullacci/SantinoGullacci/output/github-contribution-grid-snake.svg)
